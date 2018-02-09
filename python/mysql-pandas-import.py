@@ -1,8 +1,8 @@
-" Make sure that you have the following libraries installed on your machine
-> pip install mysqlclient
-> pip install pandas
-> pip install sqlalchemy
-"
+# Make sure that you have the following libraries installed on your machine
+# pip install mysqlclient
+# pip install pandas
+# pip install sqlalchemy
+
 import pandas as pd
 from sqlalchemy import create_engine
 
