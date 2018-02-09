@@ -1,6 +1,6 @@
 # Title
 
-This section is going to contain some useful scripts for python3 which helps to make your life easier in implementing certain things.
+This section is going to contain some useful python3 scripts which will help a new beginner to brush up things.
 
 ## Getting Started
 
@@ -19,6 +19,7 @@ Each script is commented with the pre-requisites that needs to be present in the
 It is recommended to run python programs inside a virtual environment so that libraries can be handled well for each and every programs separately.
 
 To install virtualenv in windows, follow the below steps
+
 * Install Python3/pip and ensure that you have set the environment path on your machine.
 
 ```
