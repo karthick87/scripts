@@ -1,6 +1,6 @@
 # Title
 
-This section is going to contain some useful python3 scripts which will help a new beginner to brush up things.
+This section is going to contain some useful python3 scripts which will help a new beginner to brush up things. More to come.
 
 ## Getting Started
 
